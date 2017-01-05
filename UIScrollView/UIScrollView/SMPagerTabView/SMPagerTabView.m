@@ -8,7 +8,7 @@
 
 #import "SMPagerTabView.h"
 
-@interface SMPagerTabView()
+@interface SMPagerTabView() 
 
 @property (nonatomic, strong) UIScrollView* bodyScrollView;
 @property (nonatomic, strong) NSMutableArray* viewsArray;

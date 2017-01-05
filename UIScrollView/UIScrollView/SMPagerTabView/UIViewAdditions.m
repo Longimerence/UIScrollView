@@ -9,7 +9,7 @@
 
 - (void)setVisible:(BOOL)visible{
     self.hidden = !visible;
-}
+} 
 
 - (CGFloat)left {
     return self.frame.origin.x;

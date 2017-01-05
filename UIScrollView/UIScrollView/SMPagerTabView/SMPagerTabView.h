@@ -8,7 +8,7 @@
 
 #import <UIKit/UIKit.h>
 #import "UIViewAdditions.h"
-
+ 
 @protocol SMPagerTabViewDelegate;
 
 @interface SMPagerTabView : UIView<UIScrollViewDelegate>
